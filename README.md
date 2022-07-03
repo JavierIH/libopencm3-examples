@@ -9,6 +9,7 @@ Collection of snnipets with libopencm3 to run in a stm32f103c8t6 (BluePill). Eve
  - [Tasks](tasks)
  - [Interrupt](interrupt)
  - [Timer](timer)
+ - [PWM](pwm)
 
 ### STLINK/V2 setup
 https://github.com/stlink-org/stlink
